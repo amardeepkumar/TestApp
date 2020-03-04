@@ -7,8 +7,8 @@ android {
         applicationId "com.eurofins.testapp"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 3
-        versionName "3.0"
+        versionCode 6
+        versionName "6.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
